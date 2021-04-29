@@ -11,3 +11,6 @@
 ```
 print("Hola! Mundo")
 
+``` 
+[Mi CV](cv.md)
+
